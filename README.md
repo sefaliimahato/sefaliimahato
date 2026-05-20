@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Sefali Mahato 👋
 
-<!--
-**sefaliimahato/sefaliimahato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Engineer with 3+ years of experience in ETL development, cloud data engineering, and big data processing.
 
-Here are some ideas to get you started:
+## Core Skills
+- Azure Data Factory
+- Databricks
+- Snowflake
+- Informatica Intelligent Cloud Services (IICS)
+- PySpark
+- SQL
+- Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Expertise
+- ETL & ELT Pipelines
+- Data Transformation & Processing
+- Cloud Data Solutions
+- Data Integration
+- Workflow Automation
+
+## Projects
+- End-to-End ETL Pipelines
+- Cloud-Based Data Processing
+- Snowflake Data Integration
+- PySpark Transformation Workflows
